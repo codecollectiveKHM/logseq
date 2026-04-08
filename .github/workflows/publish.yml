@@ -39,9 +39,9 @@ jobs:
       - name: Logseq Publish SPA
         uses: logseq/publish-spa@v0.3.0
         with:
-          graph-directory: .
-          output-directory: public
-          version: stable
+          # graph-directory: .
+          # output-directory: public
+          # version: stable
           accent-color: teal
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
@@ -56,4 +56,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
         with: 
-          folder: public
+          folder: www
