@@ -36,15 +36,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Logseq Publish SPA
-        uses: logseq/publish-spa@v0.3.0
-        with:
-          # graph-directory: .
-          # output-directory: public
-          # version: stable
-          accent-color: teal
-      - name: Add a nojekyll file # to make sure asset paths are correctly identified
-        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      # - name: Logseq Publish SPA
+      #   uses: logseq/publish-spa@v0.3.0
+      #   with:
+      #     # graph-directory: .
+      #     # output-directory: public
+      #     # version: stable
+      #     accent-color: teal
+      # - name: Add a nojekyll file # to make sure asset paths are correctly identified
+      #   run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
