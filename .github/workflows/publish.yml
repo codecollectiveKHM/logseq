@@ -28,11 +28,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    artifacts:
-    paths:
-    - www
-    only:
-    - main
+    # artifacts:
+    #   paths:
+    #   - www
+    #   only:
+    #   - main
     steps:
       - name: Checkout
         uses: actions/checkout@v4
