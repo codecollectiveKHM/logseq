@@ -422,4 +422,4 @@
  :journal/page-title-format "yyyy-MM-dd"
  :zotero/settings-v2 {"sarahciston" {:include-notes? false, :extra-tags "ref", :type-id "4233470", :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :page-insert-prefix "@"}}
  :feature/enable-journals? false
- :default-home {:page "welcome"}}
+ :default-home {:page "README"}}

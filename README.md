@@ -1,2 +1,3 @@
-# logseq
-Knowledge base
+# Welcome!
+
+- This knowledge base is used to help organize information about and around the KHM Lab for Computational Thinking and Aesthetic Doing, colloquially called Code Collective.
