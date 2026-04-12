@@ -1,4 +1,4 @@
-# Lab Inventory 
+public:: true
 
 |Item|Description|Uses|Status|
 |---|---|---|---|
