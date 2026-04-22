@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["lab concept"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,4 +422,5 @@
  :journal/page-title-format "yyyy-MM-dd"
  :zotero/settings-v2 {"sarahciston" {:include-notes? false, :extra-tags "ref", :type-id "4233470", :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :page-insert-prefix "@"}}
  :feature/enable-journals? false
- :default-home {:page "README"}}
+ :default-home {:page "README"}
+ :publishing/all-pages-public? true}

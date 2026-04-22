@@ -1,14 +1,14 @@
 {:blocks (
-{:block/content "# Lab Values"
+{:block/content "# Lab Values\n* scrappy artistic strategies\n* collaboration not competition\n* works in progress\n* intersectional, inter/transdisciplinary, trans*formative"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "69d656ff-5504-425e-80d4-1585f5b608db"}
+{:block/uuid #uuid "b3f68de0-5a66-4d38-8192-5514e6e8e01e"}
 :block/parent 
 {:block/uuid #uuid "69d656ff-5504-425e-80d4-1585f5b608db"}
 :block/properties 
 {:heading 1}
 :block/uuid #uuid "69db726a-3654-406f-9c9f-ded1574aae3e"} 
-{:block/created-at 1775989628722
+{:block/created-at 1776858617940
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -24,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 78]
+:size [400 198.0000358750562]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -33,8 +33,8 @@
 :point [-8 720]
 :parentId "69d656ff-5504-425e-80d4-1585f5b608db"
 :collapsedHeight 0
-:nonce 1775989353809}}
-:block/updated-at 1775989628722} 
+:nonce 1775989353816}}
+:block/updated-at 1776858617940} 
 {:block/content "# Lab Name Ideas"
 :block/format :markdown
 :block/left 
@@ -71,7 +71,7 @@
 :collapsedHeight 0
 :nonce 1775989390468}}
 :block/updated-at 1775989510623} 
-{:block/content "# Lab Projects\n• Coding for vibe coders\n• Rust\n• New AI server & self-hosted models, small models, custom models"
+{:block/content "# Lab Projects\n* Coding for vibe coders\n* Let's Learn Rust Together?!\n* New AI server & self-hosted models, small models, custom models\n* Reticulum & mesh networks\n* problematics of Edge AI: embedded and/vs distributed networks"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "69db7291-9292-4250-ae2c-8d0e96f18ba8"}
@@ -80,7 +80,7 @@
 :block/properties 
 {:heading 1}
 :block/uuid #uuid "69db72a0-5a05-475b-b973-a1c625cf9782"} 
-{:block/created-at 1775989624889
+{:block/created-at 1776858697519
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -96,7 +96,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 173.9999535462108]
+:size [400 245.9999664239209]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -105,8 +105,8 @@
 :point [832 720]
 :parentId "69d656ff-5504-425e-80d4-1585f5b608db"
 :collapsedHeight 0
-:nonce 1775989404781}}
-:block/updated-at 1775989624889} 
+:nonce 1775989404792}}
+:block/updated-at 1776858697519} 
 {:block/content "# Lab Activities\n• Monthly community meetup on critical AI etc\n•"
 :block/format :markdown
 :block/left 
@@ -142,20 +142,21 @@
 :parentId "69d656ff-5504-425e-80d4-1585f5b608db"
 :collapsedHeight 0
 :nonce 1775989412299}}
-:block/updated-at 1775989632545})
+:block/updated-at 1775989632545} 
+{:block/content "public:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "69d656ff-5504-425e-80d4-1585f5b608db"}
+:block/parent 
+{:block/uuid #uuid "69d656ff-5504-425e-80d4-1585f5b608db"}
+:block/properties 
+{:public true}
+:block/uuid #uuid "b3f68de0-5a66-4d38-8192-5514e6e8e01e"})
 :pages (
 {:block/uuid #uuid "69d656ff-5504-425e-80d4-1585f5b608db"
 :block/properties 
-{:ls-type :whiteboard-page
-:logseq.tldraw.page 
-{:id "69d656ff-5504-425e-80d4-1585f5b608db"
-:name "lab concept"
-:bindings 
-{}
-:nonce 1
-:assets []
-:shapes-index ("84d4bdc0-3659-11f1-afb0-cb709bd96f57" "9aafd580-3659-11f1-afb0-cb709bd96f57" "a314bab0-3659-11f1-afb0-cb709bd96f57" "a7b34910-3659-11f1-afb0-cb709bd96f57")}}
-:block/updated-at 1775989632545
+{:public true}
+:block/updated-at 1776858697519
 :block/created-at 1775654655217
 :block/type "whiteboard"
 :block/name "lab concept"

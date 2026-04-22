@@ -1,4 +1,4 @@
-public:: true
+<!-- public:: true -->
 
 - ## PhD programs (Germany)
 - ## Residencies & Fellowships
